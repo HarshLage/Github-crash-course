@@ -5,8 +5,3 @@ funtion this_first_comment(){
 funtion this_second_comment(){
     return "this is the second thing "
 }
-
-
-funtion this_third_comment(){
-    return "there is something wrong with this "
-}
