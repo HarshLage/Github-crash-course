@@ -24,3 +24,7 @@ function this_is_fifth_branch(){
 function thi_is_the_fifth_fun(){
     return "this_is_fifthe_change"
 }
+
+function this_is_the_sixth_fun(){
+    return "this is the chaange for the sixth fun"
+}
